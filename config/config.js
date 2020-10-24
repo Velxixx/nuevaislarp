@@ -5,7 +5,7 @@ module.exports.options = {
     ],
     roles: ["Admin"],
     servers: [
-        { name: 'NuevaIsla', url: 'http://144.217.11.184:30106', alias: 'NuevaIsla' }
+        { name: 'NuevaIsla', url: 'http://144.217.11.184:30106', alias: 'status' }
     ],
     pollRate: 30,
 };
