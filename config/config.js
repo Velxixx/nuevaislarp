@@ -3,7 +3,7 @@ module.exports.options = {
     topicChannels: [
       'status'
     ],
-    roles: ["Admin"],
+    roles: ["Whitelist"],
     servers: [
         { name: 'Nueva Isla', url: 'http://144.217.11.184:30106', alias: 'status' }
     ],
