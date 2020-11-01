@@ -71,7 +71,7 @@ client.setInterval(async () => {
 client.on('message', message => {
 
   // Ignore other than legit commands
-  if(message.channel.type !== 'text' || message.member === null || !message.content.startsWith('!')) {
+  if(message.channel.type !== 'text' || message.member === null || !message.content.startsWith('-')) {
     return false;
   }
 
