@@ -1,5 +1,5 @@
 module.exports.options = {
-    token: 'NzY5NDQ0MjE5MTEwMjkzNTI1.X5PGxQ.479UxwcVMmlBoru4gnibpDEUZ0c',
+    token: 'Token Removed (OLD BOT)',
     topicChannels: [
       'status'
     ],
